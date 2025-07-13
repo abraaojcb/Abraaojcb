@@ -20,4 +20,4 @@ Meu nome é Abraão e atualmente curso o 4º semestre de Ciência da Computaçã
 
 ## Status
 
-![Abraão's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=radical)
+![Abraão's GitHub stats](https://github-readme-stats.vercel.app/api?Abraaojcb&show_icons=true&theme=radical)
