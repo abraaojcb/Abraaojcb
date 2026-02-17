@@ -2,7 +2,7 @@
 
 ## Olá Mundo!
 
-Meu nome é Abraão e atualmente curso o 4º semestre de Ciência da Computação.
+Meu nome é Abraão e atualmente curso o 5º semestre de Ciência da Computação.
 
 - 🎓 Estou me preparando para ser um cientista da computação.  
 - 💡 Minha paixão por tecnologia começou na infância, inspirado pelo meu pai.  
