@@ -8,7 +8,6 @@ Meu nome é Abraão e atualmente curso o 4º semestre de Ciência da Computaçã
 - 💡 Minha paixão por tecnologia começou na infância, inspirado pelo meu pai.  
 - 🧠 Tenho interesse especial em cibersegurança e banco de dados.  
 - 🐍 Uso Python para automações e projetos diversos.  
-- ❤️ Sou são-paulino de coração e um cientista da computação em construção!
 
 ## Conhecimentos
 
